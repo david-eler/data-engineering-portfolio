@@ -19,8 +19,6 @@ Buscar uma posição como **Data Engineer**, aplicando habilidades em Python, SQ
 *   **Status:** Em desenvolvimento
 *   **Link:** [A ser adicionado]
 
-*(Você adicionará os projetos aqui conforme for criando-os)*
-
 ## 📞 Contato
 *   LinkedIn: https://linkedin.com/in/eler-david/
 *   E-mail: odavideler@gmail.com
