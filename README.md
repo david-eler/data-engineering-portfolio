@@ -1,4 +1,4 @@
-# Data Engineering Portfolio - [Seu Nome]
+# Data Engineering Portfolio - David Eler
 
 ## 👤 Sobre
 Profissional em transição para Data Engineering, construindo expertise em pipelines de dados, nuvem (Azure) e automação. Este portfólio documenta projetos práticos desenvolvidos como parte do meu plano de aprendizado.
@@ -22,5 +22,5 @@ Buscar uma posição como **Data Engineer**, aplicando habilidades em Python, SQ
 *(Você adicionará os projetos aqui conforme for criando-os)*
 
 ## 📞 Contato
-*   LinkedIn: [link do seu perfil]
-*   E-mail: [seu email profissional]
+*   LinkedIn: https://linkedin.com/in/eler-david/
+*   E-mail: odavideler@gmail.com
